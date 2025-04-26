@@ -32,6 +32,16 @@ Here, you can:
 
 ---
 
+<!--start: description-->
+
+<!--end: description-->
+
+<!--start: status pages-->
+
+<!--end: status pages-->
+
+---
+
 ## 🗣️ How to Use Discussions
 
 We use **GitHub [Discussions](https://github.com/AURA-x-CAPITAL/community/discussions)** as our main community forum.  

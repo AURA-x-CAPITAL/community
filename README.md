@@ -15,6 +15,7 @@ Here, you can:
 ## 🚀 About the Project
 
 **AuraXcapital** is a decentralized platform based on the TON blockchain, offering users the ability to:
+
 - Swap tokens
 - Create and manage limit orders
 - Integrate with NFTs and other DeFi tools
@@ -35,20 +36,23 @@ Here, you can:
 
 We use **GitHub [Discussions](https://github.com/AURA-x-CAPITAL/community/discussions)** as our main community forum.  
 Use Discussions to:
+
 - Ask questions or get help with the project
 - Propose new ideas or brainstorm features with the community
 - Share your experiences, integrations, or feedback
 - Participate in project-wide announcements and polls
 
 **To start:**
+
 1. Click the `Discussions` tab at the top of the repository.
 2. Choose the relevant category:
-    - **Q&A**: Get help or ask technical questions
-    - **Ideas & Proposals**: Suggest new features or improvements
-    - **General**: Talk about anything related to AuraXcapital or DeFi
-    - **Show & Tell**: Share your use case, integration, or results
+   - **Q&A**: Get help or ask technical questions
+   - **Ideas & Proposals**: Suggest new features or improvements
+   - **General**: Talk about anything related to AuraXcapital or DeFi
+   - **Show & Tell**: Share your use case, integration, or results
 
 **Before posting:**
+
 - Search for your topic to see if it already exists.
 - Use clear, descriptive titles and include context/screenshots if possible.
 - Be polite and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).

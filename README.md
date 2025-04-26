@@ -4,8 +4,8 @@ Welcome to the official community repository of **AuraXcapital**!
 
 Here, you can:
 
-- 📌 Propose new features and ideas
-- 🐞 Report bugs and issues
+- 📌 Propose new [features](https://github.com/AURA-x-CAPITAL/community/issues/2) and [ideas](https://github.com/AURA-x-CAPITAL/community/discussions/categories/ideas)
+- 🐞 Report [bugs](https://github.com/AURA-x-CAPITAL/community/issues/1) and issues
 - 💬 Participate in discussions and planning
 - 🤝 Contribute to the project's development
 
@@ -32,7 +32,7 @@ Here, you can:
 
 ## 🗣️ How to Use Discussions
 
-We use **GitHub Discussions** as our main community forum.  
+We use **GitHub [Discussions](https://github.com/AURA-x-CAPITAL/community/discussions)** as our main community forum.  
 Use Discussions to:
 - Ask questions or get help with the project
 - Propose new ideas or brainstorm features with the community
@@ -92,7 +92,6 @@ We strive to make this a welcoming and safe space for all.
 ## 📬 Contact
 
 - Telegram: [@aura_senti](https://t.me/aura_senti)
-- Email: support@auraxcapital.io
 
 ---
 

@@ -18,7 +18,7 @@ jobs:
           issue-message: |
             👋 **Welcome to AuraXcapital Community!**
             Thank you for opening your first issue here. Please make sure to follow our issue templates and be as descriptive as possible.
-            Need help? Ask in [Discussions](../../discussions) or visit our [Telegram Community](https://t.me/AuraXcapitalCommunity).
+            Need help? Ask in [Discussions](../discussions) or visit our [Telegram Community](https://t.me/aura_senti).
       - name: Greet new discussion creators
         if: github.event_name == 'discussion'
         uses: actions/first-interaction@v1
@@ -27,4 +27,4 @@ jobs:
           discussion-message: |
             👋 **Welcome to AuraXcapital Discussions!**
             Thanks for starting your first discussion. This is the place to share ideas, ask questions, or connect with the community.
-            Before posting, check our [README](../../README.md) for contribution tips!
+            Before posting, check our [README](../README.md) for contribution tips!

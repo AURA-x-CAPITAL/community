@@ -1,5 +1,3 @@
----
-
 This repository contains the open-source uptime monitor and status page for [Aura X Capital](https://status.auraxterminal.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 <!--start: status pages-->

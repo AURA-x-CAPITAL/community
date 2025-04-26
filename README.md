@@ -6,6 +6,7 @@ Here, you can:
 
 - 📌 Propose new [features](https://github.com/AURA-x-CAPITAL/community/issues/2) and [ideas](https://github.com/AURA-x-CAPITAL/community/discussions/categories/ideas)
 - 🐞 Report [bugs](https://github.com/AURA-x-CAPITAL/community/issues/1) and issues
+- 💡[Vote](https://github.com/AURA-x-CAPITAL/community/discussions/categories/ideas) to the new Ideas
 - 💬 Participate in discussions and planning
 - 🤝 Contribute to the project's development
 

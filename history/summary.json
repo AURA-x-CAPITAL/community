@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Telegram Mini App: Front-End",
+    "url": "https://game-frontend-v2.dev.auraxterminal.com",
+    "icon": "https://icons.duckduckgo.com/ip3/game-frontend-v2.dev.auraxterminal.com.ico",
+    "slug": "telegram-mini-app-front-end",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Telegram Mini App: Back-End",
+    "url": "https://game-backend-v2.auraxterminal.com/docs",
+    "icon": "https://icons.duckduckgo.com/ip3/game-backend-v2.auraxterminal.com.ico",
+    "slug": "telegram-mini-app-back-end",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  }
+]

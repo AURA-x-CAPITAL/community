@@ -29,6 +29,7 @@ Here, you can:
 - [🌐 Official Website + Roadmap](https://auraxcapital.io)
 - [📄 Business Docs (RU)](https://auraxcapital.gitbook.io/auraxcapital-docs)
 - [📄 Business Docs (ENG)](https://auraxcapital.gitbook.io/auraxcapital-docs-eng)
+- [Status Page](https://status.auraxterminal.com/)
 
 ---
 

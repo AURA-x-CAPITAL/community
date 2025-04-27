@@ -4,7 +4,7 @@ repo: community # The name of this repository
 
 sites:
   - name: "Telegram Mini App: Front-End"
-    url: https://game-frontend-v2.dev.auraxterminal.com
+    url: https://game-frontend-v2.auraxterminal.com
   - name: "Telegram Mini App: Back-End"
     url:  https://game-backend-v2.auraxterminal.com/docs
 

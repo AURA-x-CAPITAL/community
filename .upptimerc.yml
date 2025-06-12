@@ -8,6 +8,10 @@ sites:
   - name: "Telegram Mini App: Back-End"
     url:  https://game-backend-v2.auraxterminal.com/docs
 
+assignees: # Users to assign downtime issues (optional)
+  - kksudo
+  - Wombatov
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -22,3 +26,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 */12 * * *"

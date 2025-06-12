@@ -1,6 +1,10 @@
 [![BackEnd Telegram Mini App](https://cronitor.io/badges/kziIRg/production/cQ70oUZu7-5MTfiTAZPV6_cgDD4.svg)](https://auraxterminal.cronitorstatus.com/)
 [![FrontEnd Telegram Mini App](https://cronitor.io/badges/Jo5pwY/production/DUwTi9FAkJjR3E5vEw0C9G4Vb5s.svg)](https://auraxterminal.cronitorstatus.com/)
 
+![BackEnd Telegram Mini App](https://cronitor.io/badges/kziIRg/production/cQ70oUZu7-5MTfiTAZPV6_cgDD4.svg)
+
+![FrontEnd Telegram Mini App](https://cronitor.io/badges/Jo5pwY/production/DUwTi9FAkJjR3E5vEw0C9G4Vb5s.svg)
+
 This repository contains the open-source uptime monitor and status page for [Aura X Capital](https://status.auraxterminal.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 <!--start: status pages-->
@@ -41,6 +45,9 @@ Here, you can:
 ---
 
 ## 🔗 LINKS
+
+- [💬 Support Chat](https://t.me/aura_senti)
+- [📊 Live Status](https://auraxterminal.cronitorstatus.com/)
 
 - [📚 Main Documentation (GitBook)](https://auraxcapital-1.gitbook.io/auraxcapital)
 - [🤖 Main Telegram Mini App Bot](https://t.me/auraxcryptobot)
